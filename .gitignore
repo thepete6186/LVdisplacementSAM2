@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+
+# Virtualenvs
+.venv/
+venv/
+ENV/
+
+# Packaging
+*.egg-info/
+dist/
+build/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
